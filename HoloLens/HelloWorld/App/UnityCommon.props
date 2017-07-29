@@ -1,9 +1,0 @@
-﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
-    <PropertyGroup>
-        <UnityWSASolutionName>HelloWorld</UnityWSASolutionName>
-        <UnityWSASolutionDir>C:\Users\deyalama\OneDrive - Microsoft\reading\HoloLens\Scratchpad\HelloWorld\App\</UnityWSASolutionDir>
-        <UnityProjectDir>C:\Users\deyalama\OneDrive - Microsoft\reading\HoloLens\Scratchpad\HelloWorld\</UnityProjectDir>
-        <UnityWSAPlayerDir>C:\Program Files\Unity 2017.1.0b1\Editor\Data\PlaybackEngines\MetroSupport\</UnityWSAPlayerDir>
-        <UnityWSAToolsDir>$(UnityWSASolutionDir)Unity\Tools\</UnityWSAToolsDir>
-    </PropertyGroup>
-</Project>

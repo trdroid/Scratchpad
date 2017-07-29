@@ -1,4 +1,0 @@
-C:\Users\deyalama\OneDrive - Microsoft\reading\HoloLens\Scratchpad\HelloWorld\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
-C:\Users\deyalama\OneDrive - Microsoft\reading\HoloLens\Scratchpad\HelloWorld\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
-C:\Users\deyalama\OneDrive - Microsoft\reading\HoloLens\Scratchpad\HelloWorld\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
-C:\Users\deyalama\OneDrive - Microsoft\reading\HoloLens\Scratchpad\HelloWorld\App\HelloWorld\HelloWorld.csproj;x86
