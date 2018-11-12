@@ -1,0 +1,3 @@
+C:\Users\deyalama\onGit\Scratchpad\Unreal\ScriptingSample\Source\ScriptingSample\ScriptingSample.Build.cs
+C:\Users\deyalama\onGit\Scratchpad\Unreal\ScriptingSample\Source\ScriptingSample.Target.cs
+C:\Users\deyalama\onGit\Scratchpad\Unreal\ScriptingSample\Source\ScriptingSampleEditor.Target.cs

@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\ScriptingSample.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{49C090AF-235F-4E9F-9088-6840AA1E0790}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ScriptingSample.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ScriptingSampleEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{D9ADB11C-EE62-49AF-BEB5-B5ED78650A09}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\ScriptingSample">
+      <UniqueIdentifier>{4A4202E4-D9F4-4351-85AE-D030C86AEAD1}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ScriptingSample\ScriptingSample.Build.cs">
+      <Filter>Source\ScriptingSample</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\ScriptingSample\ScriptingSample.cpp">
+      <Filter>Source\ScriptingSample</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ScriptingSample\ScriptingSample.h">
+      <Filter>Source\ScriptingSample</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ScriptingSample\ScriptingSampleCharacter.cpp">
+      <Filter>Source\ScriptingSample</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ScriptingSample\ScriptingSampleCharacter.h">
+      <Filter>Source\ScriptingSample</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ScriptingSample\ScriptingSampleGameMode.cpp">
+      <Filter>Source\ScriptingSample</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ScriptingSample\ScriptingSampleGameMode.h">
+      <Filter>Source\ScriptingSample</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\ScriptingSample\HealthPill.h">
+      <Filter>Source\ScriptingSample</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\ScriptingSample\HealthPillSpawner.h">
+      <Filter>Source\ScriptingSample</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\ScriptingSample\HealthPill.cpp">
+      <Filter>Source\ScriptingSample</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ScriptingSample\HealthPillSpawner.cpp">
+      <Filter>Source\ScriptingSample</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
